@@ -1,0 +1,2 @@
+-> This section deals with how we can make one file available inside another file as a module.
+-> for this, we use "module.exports " objects and "require()" method
